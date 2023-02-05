@@ -27,11 +27,11 @@
 ## 💡 Portfolio
 
 <div align="left">
-	<a href="https://jihoon2723.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
+<a style="text-decoration: none" href="https://jihoon2723.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 </div>
 
-#####  <img style="text-decoration: none"src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /> : ljh2723@gmail.com
+#####  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /> : ljh2723@gmail.com
 
 ## 🏢 Career
-<a href="https://kr.basic.finance/">asic Research</a> 2021-06-21 ~ (재직중)
+<a href="https://kr.basic.finance/">Basic Research</a> 2021-06-21 ~ (재직중)
 ### Hi there 👋
