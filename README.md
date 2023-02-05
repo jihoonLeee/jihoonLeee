@@ -34,4 +34,8 @@
 
 ## 🏢 Career
 - 2021.06.21 ~ (재직중) <a href="https://kr.basic.finance/">Basic Research</a> 개발자
-### Hi there 👋
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=jihoonLeee&show_icons=true">
