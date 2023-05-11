@@ -32,7 +32,7 @@
 #####  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /> : ljh2723@gmail.com
 
 ## 🏢 Career
-- 2021.06.21 ~ (재직중) <a href="https://kr.basic.finance/">Basic Research</a> 개발자
+- 2021.06.21 ~ 2023.05.02 <a href="https://kr.basic.finance/">Basic Research</a> 개발자
 
 
 
