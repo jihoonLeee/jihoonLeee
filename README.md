@@ -9,20 +9,24 @@
 </div>
 
 ##### ✨Databases✨
+
 <div align="left">
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
 ##### ✨Frameworks✨
+
 <div align="left">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
  	 <img src="https://camo.githubusercontent.com/a579fa4513b43c60484a441f15c1c713054e95c2db47c77fd16c438adcc4484c/68747470733a2f2f6d7962617469732e6f72672f696d616765732f6d7962617469732d6c6f676f2e706e67" width="86px" height="20px"/>
 </div>
 
 ##### ✨OS✨
+
 <div align="left">
  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
+
 ##### 🛠 IDEs / Tools 🛠
 
 <div align="left">
