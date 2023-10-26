@@ -25,7 +25,6 @@
 <div align="left">
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-
  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
