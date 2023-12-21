@@ -28,10 +28,10 @@
 ## 💡 Portfolio
 
 <div align="left">
-<a style="text-decoration: none" href="https://jihoon2723.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+<a style="text-decoration: none" href="https://jihoon2723.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </div>
 
-#####  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /> : ljh2723@gmail.com
+#####  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> : ljh2723@gmail.com
 
 ## 🏢 Career
 - 2023.06.01 ~            <a href="https://coredot.io/">Coredot Lab</a> Validator/Developer
