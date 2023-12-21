@@ -34,7 +34,7 @@
 #####  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> : ljh2723@gmail.com
 
 ## 🏢 Career
-- 2023.06.01 ~            <a href="https://coredot.io/">Coredot Lab</a> Validator/Developer
+- 2023.06.01 ~ 2023.09.30 <a href="https://coredot.io/">Coredot Lab</a> Validator/Developer
 - 2021.06.21 ~ 2023.05.02 <a href="https://kr.basic.finance/">Basic Research</a> Developer
 
 
