@@ -7,7 +7,7 @@
   	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /> &nbsp
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> &nbsp
-	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white"/> &nbsp
+	  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
 <br/>
